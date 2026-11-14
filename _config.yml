@@ -1,0 +1,13 @@
+title: 'ChatGPT续费 2026：Plus 到期怎么续，3个月、6个月、1年怎么买'
+description: 'ChatGPT续费 2026：Plus 到期怎么续、续费暂停怎么办、卡密怎么管；3 个月 ¥387、6 个月 ¥774、1 年 ¥1548 怎么开，一个月 ¥129，瑶瑶ai训练师（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/plusxufei"
